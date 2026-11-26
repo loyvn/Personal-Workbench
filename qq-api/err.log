@@ -1,0 +1,33 @@
+qq-auth.session-failed {
+  loginChannel: 'qqmusic',
+  retryAfterMs: 15000,
+  failureStage: 'mqtt-listener',
+  failureReason: 'mqtt-packet-timeout',
+  upstreamHttpStatus: undefined,
+  upstreamCode: undefined,
+  upstreamGlobalCode: undefined,
+  upstreamSubCode: undefined,
+  name: 'Error'
+}
+qq-auth.session-failed {
+  loginChannel: 'qqmusic',
+  retryAfterMs: 15000,
+  failureStage: 'mqtt-listener',
+  failureReason: 'mqtt-packet-timeout',
+  upstreamHttpStatus: undefined,
+  upstreamCode: undefined,
+  upstreamGlobalCode: undefined,
+  upstreamSubCode: undefined,
+  name: 'Error'
+}
+qq-auth.session-failed {
+  loginChannel: 'qqmusic',
+  retryAfterMs: 15000,
+  failureStage: 'mqtt-listener',
+  failureReason: 'mqtt-packet-timeout',
+  upstreamHttpStatus: undefined,
+  upstreamCode: undefined,
+  upstreamGlobalCode: undefined,
+  upstreamSubCode: undefined,
+  name: 'Error'
+}
